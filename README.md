@@ -40,7 +40,7 @@ An iOS Weather App built with **SwiftUI**, **async/await**, and **dependency inj
 The project includes unit tests for `WeatherService`:
 ```bash
 ⌘ + U  // Run all tests in Xcode
-
+```
 ---
 ##  🚀 Getting Started
 
@@ -48,3 +48,4 @@ The project includes unit tests for `WeatherService`:
 git clone https://github.com/YOUR_USERNAME/WeatherApp.git
 cd WeatherApp
 open WeatherApp.xcodeproj
+```
